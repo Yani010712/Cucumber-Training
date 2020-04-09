@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
                 "html:target/SystemTestReports/html",
                 "json:target/SystemTestReports/json/report.json",
                 "junit:target/SystemTestReports/junit/report.xml"},
-                tags = {"@ListOfMaps"},
+                tags = {"@ScenariOutlineExample"},
                 dryRun = false,
                 monochrome = true
 
